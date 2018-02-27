@@ -1,2 +1,2 @@
 # hello-world
-prints hello world to screen
+doesn't really print hello world, I'm just following the tutorial
